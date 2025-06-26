@@ -5,7 +5,7 @@ A beginner-friendly project to detect spam messages using NLP + Machine Learning
 ---
 
 ### ✅ Features:
-- Trained a **LogisticRegressor classifier** on SMS spam dataset with **97% accuracy**
+- Trained a **LogisticRegressor classifier** on SMS spam dataset with **98% accuracy**
 - Preprocessed text using **NLTK** (stopwords removal, stemming, etc.)
 - Vectorized messages using **CountVectorizer**
 - Integrated with **Gmail API** to:
